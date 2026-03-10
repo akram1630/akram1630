@@ -74,7 +74,7 @@
 </a>
 
 <a href="https://agilemanifesto.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/agile/009FDA" width="40" height="40"/>
+<img src="https://productfolio.com/wp-content/uploads/2019/07/agile-method.png" width="40" height="40"/>
 </a>
 
 <a href="https://scrum.org/" target="_blank">
