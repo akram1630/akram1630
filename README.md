@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://microservices.io/" target="_blank">
-<img src="https://img.icons8.com/color/48/microservices.png" width="40" height="40"/>
+<img src="[https://img.icons8.com/color/48/microservices.png](https://www.clipartmax.com/png/middle/195-1955230_cloud-gateway-spring-cloud-contract-logo.png)" width="40" height="40"/>
 </a>
 
 <a href="https://kafka.apache.org/" target="_blank">
