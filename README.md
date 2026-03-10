@@ -74,11 +74,11 @@
 </a>
 
 <a href="https://agilemanifesto.org/" target="_blank">
-<img src="https://img.icons8.com/color/48/agile.png" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/agile/009FDA" width="40" height="40"/>
 </a>
 
 <a href="https://scrum.org/" target="_blank">
-<img src="https://img.icons8.com/color/48/scrum.png" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/scrumalliance/009FDA" width="40" height="40"/>
 </a>
 
 <a href="https://en.wikipedia.org/wiki/Distributed_computing" target="_blank">
@@ -89,9 +89,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://en.wikipedia.org/wiki/MIPS_architecture" target="_blank">
-<img src="https://img.icons8.com/color/48/cpu.png" width="40" height="40"/>
-</a>
 
 </p>
 
